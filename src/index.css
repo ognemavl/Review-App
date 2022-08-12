@@ -1,0 +1,31 @@
+.form {
+    width: 60%;
+    height: 54vh;
+    border: 2px #938fad solid;
+    border-radius: 15px;
+}
+
+.input {
+    width: 60%;
+}
+
+.form-wrapper {
+    margin: 20px;
+}
+
+.btn-style {
+    margin: 5px;
+}
+
+.btn {
+    transform: translateY(11px);
+}
+
+.username {
+    font-size: 1.4rem;
+}
+
+.box {
+    margin-top: 40px;
+    width: 90%;
+}
